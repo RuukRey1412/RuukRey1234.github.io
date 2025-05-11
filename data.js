@@ -126,6 +126,9 @@ const actresses = [
 {
         name: "JD",
         link: "https://x.com/yuriyuri020202U/status/1839636752648306918"
+    },{
+        name: "JD",
+        link: "https://x.com/inumakitokyo/status/1897446101701243351"
     },
 
 ]
